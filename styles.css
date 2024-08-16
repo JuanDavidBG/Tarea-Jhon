@@ -1,0 +1,20 @@
+@import url(css/Interacción.css);
+@import url(css/MenuResponsy.css);
+@import url(css/root.css);
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+  
+
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+color: var(--Blanco);
+background-color: var(--Gris);
+background-position: top 58px center;
+background-repeat: no-repeat;
+background-image: radial-gradient(50% 50% at top center, rgba(0, 0, 0, .66));
+background-size: 120% 2000px, 100% 2000px;
+}
